@@ -1,0 +1,27 @@
+body{
+	background-color: #F5F3F4;
+}
+.navbar {
+	background-color: #503A2F;
+	color: #F5F3F4;
+	text-align: center;
+}
+form{
+	text-align: center;
+}
+article{
+	background-color: #503A2F;
+	color: #F5F3F4;
+	padding-left:12px;
+}
+.title{
+	text-align: center;
+}
+#carousel-example-generic{
+	margin-left: 8%;
+}
+.carousel-indicators {
+	background-color: #503A2F;
+	position: absolute;
+	margin-left: -35%;
+}
